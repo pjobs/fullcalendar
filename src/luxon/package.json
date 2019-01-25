@@ -1,0 +1,6 @@
+{
+  "title": "FullCalendar Luxon Plugin",
+  "peerDependencies": {
+    "luxon": ""
+  }
+}

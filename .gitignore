@@ -1,11 +1,13 @@
-build/temp
 dist
+archives
+tmp
 
-# npm modules
+.sass-cache
+
+# npm
 node_modules
-
-# bower components
-lib/*/*
-
-# ignore NPM logs
 npm-debug.log
+package-lock.json
+
+# temporary
+bin/publish-release-all.sh

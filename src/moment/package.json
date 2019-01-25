@@ -1,0 +1,6 @@
+{
+  "title": "FullCalendar Moment Plugin",
+  "peerDependencies": {
+    "moment": ""
+  }
+}
